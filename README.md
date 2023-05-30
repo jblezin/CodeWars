@@ -1,1 +1,1 @@
-# CodeWars
+# LeetCode-Python-Challenges
